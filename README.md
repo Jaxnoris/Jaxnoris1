@@ -26,7 +26,7 @@
 
 <br>
 
-## <img src="assets/emoji/x-ray.png" width="32" align="center"> Инструменты
+## Инструменты
 
 #### Тестирование API и интеграций
 <table width="100%">
