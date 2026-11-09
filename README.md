@@ -3,7 +3,7 @@
 Да, я QA Engineer, но мне нравится разбирать и решать сложные задачи.
 <div align="center">
 
-<img src="assets/header-v2.svg" alt="Yaroslav Makovey — QA Engineer" width="100%">
+<img src="header-v2.svg" alt="Yaroslav Makovey — QA Engineer" width="100%"> <!-- Данный ассет был скопирован с «https://github.com/neffrit», за что отдельное ему спасибо! -->
 
 <!-- Курс QA Studio · 9 месяцев практики на реальных продуктах · собственное приложение для тестировщиков
 
