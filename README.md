@@ -1,16 +1,26 @@
 ## Всем привет！ 👋
 Меня зовут Ярослав. 
 Да, я QA Engineer, но мне нравится разбирать и решать сложные задачи.
+<div align="center">
 
-## 📊 Статистика
+<img src="assets/header-v2.svg" alt="Yaroslav Makovey — QA Engineer" width="100%">
+
+<!-- Курс QA Studio · 9 месяцев практики на реальных продуктах · собственное приложение для тестировщиков
+
+[<img src="https://img.shields.io/badge/Сайт-nikitabolshunov.ru-1F5FAD?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Сайт">](https://nikitabolshunov.ru)&nbsp;[<img src="https://img.shields.io/badge/Почта-maven17@mail.ru-2ea44f?style=for-the-badge&logo=maildotru&logoColor=white" alt="Почта">](mailto:maven17@mail.ru)&nbsp;[<img src="https://img.shields.io/badge/Telegram-@cshmrct-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">](https://t.me/cshmrct) -->
+
+</div>
+
+
+<!--## 📊 Статистика
 
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=Jaxnoris1)
-![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=Jaxnoris!)
+![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=Jaxnoris!) -->
 
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
 
-![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=Jaxnoris!)
+<!-- ![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=Jaxnoris!)-->
 
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
