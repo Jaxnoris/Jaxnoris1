@@ -12,6 +12,7 @@
 </div>
 
 ## Что умею | Направление | Что делаю |
+<link rel="stylesheet" href="style.css">
 <table class="skills">
   <tr>
     <td class="skills-name">Тест-дизайн</td>
