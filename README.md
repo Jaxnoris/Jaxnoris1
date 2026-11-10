@@ -69,9 +69,9 @@
 #### Автотесты
 <table width="100%">
   <tr align="center">
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_cypress.png"><br>Cypress</td>
+<!--    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_cypress.png"><br>Cypress</td>
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_selenium.png"><br>Selenium</td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_pytest.png"><br>PyTest</td>
+    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_pytest.png"><br>PyTest</td> -->
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_gitlab.png"><br>GitLab</td>
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/c5db2d1f2c634faffcd09a45b59cd2e808641e38/assets/logo_github.png"><br>GitHub</td>
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_vscode.png"><br>VS Code</td>
@@ -86,7 +86,7 @@
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/147ed780957fe9e13878a49dae1836ca332d6de3/assets/logo_mysql.png"><br>MySQL</td>
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_postgresql.png"><br>PostgreSQL</td>
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_dbeaver.png"><br>DBeaver</td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_mongodb.png"><br>MongoDB</td>
+ <!--   <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_mongodb.png"> --><br>MongoDB</td>
   </tr>
 </table>
 
