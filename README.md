@@ -23,8 +23,33 @@
 <!-- ![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=Jaxnoris!)-->
 
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
-
-<br>
+## Что умею | Направление | Что делаю |
+<table class="skills">
+  <tr>
+    <td class="skills-name">Тест-дизайн</td>
+    <td>чек-листы, тест-кейсы, баг-репорты с шагами, скриншотами и видео</td>
+  </tr>
+  <tr>
+    <td class="skills-name">Веб</td>
+    <td>DevTools, HTTP, кроссбраузерность, проверка вёрстки по Figma, Charles</td>
+  </tr>
+  <tr>
+    <td class="skills-name">Мобильные</td>
+    <td>эмуляторы Android Studio и Xcode, TestFlight, трафик через Charles</td>
+  </tr>
+  <tr>
+    <td class="skills-name">API</td>
+    <td>ручные проверки в Postman и Swagger</td>
+  </tr>
+  <tr>
+    <td class="skills-name">Данные</td>
+    <td>SQL-запросы в PostgreSQL: SELECT, JOIN, GROUP BY</td>
+  </tr>
+  <tr>
+    <td class="skills-name">Процессы</td>
+    <td>Scrum, Jira, Яндекс Трекер, TestIT, Git, Bitrix24</td>
+  </tr>
+</table>
 
 ## Инструменты
 
